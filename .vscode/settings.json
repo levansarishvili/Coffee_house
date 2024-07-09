@@ -1,0 +1,6 @@
+{
+  "editor.stickyScroll.scrollWithEditor": true,
+  "workbench.tree.enableStickyScroll": true,
+  "editor.stickyScroll.maxLineCount": 1,
+  "liveServer.settings.port": 5501
+}
